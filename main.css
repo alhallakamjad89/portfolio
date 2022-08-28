@@ -4,11 +4,9 @@
 body {
   font-size: 14px;
 }
-
-
 .v101_8867 {
-  width: 1440px;
-  hight: 800px;
+  width: 900px;
+  height: 600px;
   background: rgba(255,255,255,1);
   opacity: 1;
   position: relative;
@@ -19,7 +17,7 @@ body {
 .v122_21 {
   width: 34px;
   height: 34px;
-  background: url("./assets/imgs/v122_21.png");
+  background: url("../images/v122_21.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -56,7 +54,7 @@ body {
 .v103_8997 {
   width: 35px;
   height: 35px;
-  background: url("./assets/imgs/v103_8997.png");
+  background: url("../images/v103_8997.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -105,7 +103,7 @@ body {
 .v103_9005 {
   width: 180px;
   height: 35px;
-  background: url("./assets/imgs/v103_9005.png");
+  background: url("../images/v103_9005.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -164,7 +162,7 @@ body {
 .v103_9015 {
   width: 35px;
   height: 35px;
-  background: url("./assets/imgs/v103_9015.png");
+  background: url("../images/v103_9015.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -193,7 +191,7 @@ body {
 .v103_9019 {
   width: 35px;
   height: 35px;
-  background: url("./assets/imgs/v103_9019.png");
+  background: url("../images/v103_9019.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -222,7 +220,7 @@ body {
 .v103_9022 {
   width: 35px;
   height: 35px;
-  background: url("./assets/imgs/v103_9022.png");
+  background: url("../images/v103_9022.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -251,7 +249,7 @@ body {
 .v103_9026 {
   width: 35px;
   height: 35px;
-  background: url("./assets/imgs/v103_9026.png");
+  background: url("../images/v103_9026.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -276,7 +274,7 @@ body {
 .v103_9029 {
   width: 35px;
   height: 35px;
-  background: url("./assets/imgs/v103_9029.png");
+  background: url("../images/v103_9029.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -301,7 +299,7 @@ body {
 .v103_9032 {
   width: 35px;
   height: 35px;
-  background: url("./assets/imgs/v103_9032.png");
+  background: url("../images/v103_9032.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -314,7 +312,7 @@ body {
 .v122_19 {
   width: 339px;
   height: 319px;
-  background: url("./assets/imgs/v122_19.png");
+  background: url("../images/v122_19.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
