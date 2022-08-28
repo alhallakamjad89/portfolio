@@ -21,7 +21,7 @@ body {
 .v122_21 {
   width: 34px;
   height: 34px;
-  background: url("/assets/imgs/v122_21.png");
+  background: url("./assets/imgs/v122_21.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
